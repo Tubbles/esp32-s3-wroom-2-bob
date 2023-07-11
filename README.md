@@ -2,8 +2,9 @@
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) project!
-Just edit this file to add a description about it.
+Breakout board for the ESP32 S3 WROOM-2 module, for breadboard prototyping
+
+![board](resources/images/board.png)
 
 ## License
 
