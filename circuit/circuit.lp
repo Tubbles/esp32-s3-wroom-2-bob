@@ -291,7 +291,7 @@
  (component c0737caa-d933-4079-9e6d-a860c568794e
   (lib_component 9c367e07-9cf0-4ae7-a5ed-4964be214a7e)
   (lib_variant cc174801-3369-4cb3-baf3-ba9cc3caad08)
-  (lib_device aab97705-b495-4713-8cee-34aa6f9b153c)
+  (lib_device a1dbe59b-4218-456e-ac01-6a318ffd8ad2)
   (name "J6") (value "{{PARTNUMBER}}")
   (signal 8db59dac-f12b-4aa4-9466-8090de44662f (net 1b39e7ad-a1b4-4a3e-bd52-4213e3e6c763))
   (signal aa2432e3-28d6-41fe-bb1f-872c523a2309 (net d516f3ae-3d15-4e8a-80e1-348288a5009a))
@@ -301,7 +301,7 @@
  (component c671b13e-fdd1-4d85-a30c-8584af7de855
   (lib_component 9c367e07-9cf0-4ae7-a5ed-4964be214a7e)
   (lib_variant cc174801-3369-4cb3-baf3-ba9cc3caad08)
-  (lib_device aab97705-b495-4713-8cee-34aa6f9b153c)
+  (lib_device a1dbe59b-4218-456e-ac01-6a318ffd8ad2)
   (name "J5") (value "{{PARTNUMBER}}")
   (signal 8db59dac-f12b-4aa4-9466-8090de44662f (net bf2a17dd-022f-49e8-b32e-d4922cdd5ec2))
   (signal aa2432e3-28d6-41fe-bb1f-872c523a2309 (net 0a9db8b0-b86a-4c7b-b1f7-424c8a96f0a8))
